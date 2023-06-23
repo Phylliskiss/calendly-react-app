@@ -1,0 +1,182 @@
+/* navbar section */
+            .logo{
+                margin-left: 100px;
+            }
+/* hero section  */
+        .myhero{
+            margin-top: 150px;
+            
+        }
+
+        .myinput{
+            border-radius: 50px;
+        }
+        .mybutton{
+            background-color: black;
+            color: white;
+        }
+
+        .myhero h1{
+            font-weight: 700;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+
+        .myhero p{
+            margin: 40px 0;
+        }
+        span{
+            color: blue;
+        }
+
+/* simplified section  */
+        .mysimplified{
+            margin-top: 50px;
+        }
+
+ /* my create style         */
+        .mycreate{
+            margin-top: 150px;
+        
+        }
+        .mycreate2 {
+            padding-right: 50px;
+        }
+
+        .mycreate p{
+            margin-top: 20px;
+        }
+
+        .mycreate span{
+        border-radius: 20px;
+        height: 20px;
+        width: 20px;
+        font-size:12px;
+        }
+
+        .mycreate2 h5{
+            font-weight: 700;
+
+        }
+
+
+        /* Individuals styles  */
+
+        .button2{
+            border-radius: 30px;
+            background-color: black;
+            border-color: black;
+        }
+
+        .part2{
+            margin: 150px;
+        }
+
+        .button3{
+            background-color: white;
+            color: black;
+            border-radius: 30px;
+            border-color: white;
+            position: relative;
+            bottom: 250px;
+            left: 200px;
+        }
+
+        .part4-heading{
+            position: relative;
+            bottom: 300px;
+            left: 200px;
+            color: black;
+        }
+
+        .myhero2{
+            margin-top: 0;
+            position: relative;
+            bottom: 120px;
+
+        }
+
+        .myhero2 h3{
+            font-weight: 700;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+
+        .myhero2 p{
+            margin: 20px 0;
+        }
+
+/* Teams styles */
+        .mybutton4{
+            background-color: blue;
+            color: white;
+            border-radius: 30px;
+            margin-right: 20px;
+        }
+
+        .mybutton5{
+            
+            background-color:white;
+            color: black;
+            border-radius: 30px;
+        }
+
+        .image1{
+            margin-top: 100px;
+        }
+
+        .mycards{
+            margin-top: 50px;
+        }
+
+        .mycard1 a{
+            margin-top: 50px;
+        }
+
+        .mycard2 a{
+            margin-top: 26px
+        }
+
+
+/* Enterprise Styles  */
+
+      .myhero3 {
+        position: relative;
+        bottom: 300px;
+        color: white;
+
+      }
+
+      .myhero4 {
+        position: relative;
+        bottom: 250px;
+      }
+
+      .lastcards {
+        border-radius: 20px;
+        margin-left: 50px;
+        border-style:groove;
+        
+      }
+
+      .mycaption {
+        font-weight: 700;
+        font-size: larger;
+        margin-top: 20px;
+
+        margin-left: 30px;
+        color: rgb(86, 86, 243);
+        font-family: 'Times New Roman', Times, serif;
+      }
+
+      .mypic {
+        border-radius: 20px;
+        
+        
+      }
+      .learn-more {
+        margin-top: 50px;
+      }
+    
+
+      /* .cardtext2 {
+        margin-bottom: 50px;
+      } */
